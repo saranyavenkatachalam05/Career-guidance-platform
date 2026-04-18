@@ -95,7 +95,7 @@ const Dashboard = () => {
                 <p>Access courses from Udemy, Coursera, and more</p>
               </div>
             </div>
-            Testing Jenkins auto deployment
+            Testing Jenkins auto deploymenthjvyf
 
             <div className="hero-actions">
               <Link to="/signup" className="btn btn-primary">Get Started Free</Link>
